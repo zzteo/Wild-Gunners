@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8e5bb324847bbe4db965c08b24f51a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slider: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  - player: {instanceID: 0}
+  - tomb: {fileID: -927199367670048503, guid: 675595a4ece1e52499560fb1c1df52e1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
